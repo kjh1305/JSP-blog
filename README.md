@@ -1,7 +1,7 @@
 ### JSP-blog
 </br></br>
 부트스트랩 무료 템플릿을 활용한 blog  </br></br>
-
+MVC MODEL 2 디자인 패턴 사용  
 **TOLL**  
 -Intellij, JSP/SERVLET, ORACLE, TOMCAT  
 </br></br>
